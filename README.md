@@ -1,16 +1,27 @@
-# to_do_list
+To-Do List App
+Introduction
+This is a To-Do List application built with Flutter, designed to help you manage and organize your daily tasks with ease. With a clean and intuitive interface, this app will be a helpful tool for keeping track of your work and ensuring you don't miss anything important.
 
-A new Flutter project.
+Getting Started
+To set up and run this project on your local machine, follow these steps:
 
-## Getting Started
+Clone the repository:
 
-This project is a starting point for a Flutter application.
+Bash
 
-A few resources to get you started if this is your first Flutter project:
+git clone [https://github.com/thanhhbao/to_do_list]
+Navigate to the project directory:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Bash
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+cd to_do_list
+Get the dependencies:
+
+Bash
+
+flutter pub get
+Run the application:
+
+Bash
+
+flutter run
