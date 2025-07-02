@@ -12,7 +12,7 @@ To set up and run this project on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/thanhhbao/to_do_list]
+    git clone https://github.com/thanhhbao/to_do_list
     ```
 2.  **Navigate to the project directory:**
     ```bash
