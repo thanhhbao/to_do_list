@@ -28,7 +28,9 @@ To set up and run this project on your local machine, follow these steps:
     ```
 ##  App Preview
 
-![App Screenshot](lib/assets/images/screenshot1.png)
-![App Screenshot](lib/assets/images/screenshot2.png)
+<p float="left">
+  <img src="lib/assets/images/screenshot1.png" alt="App Screenshot 1" width="300"/>
+  <img src="lib/assets/images/screenshot2.png" alt="App Screenshot 2" width="300"/>
+</p>
 
 
