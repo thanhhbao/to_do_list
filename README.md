@@ -28,7 +28,7 @@ To set up and run this project on your local machine, follow these steps:
     ```
 ##  App Preview
 
-![App Screenshot](assets/images/screenshot1.png)
-![App Screenshot](assets/images/screenshot2.png)
+![App Screenshot](lib/assets/images/screenshot1.png)
+![App Screenshot](lib/assets/images/screenshot2.png)
 
 
